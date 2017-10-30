@@ -9,7 +9,7 @@ lib-cov
 
 pids
 logs
-results
+reports
 build
 
 node_modules
